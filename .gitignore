@@ -1,0 +1,21 @@
+# Local-only notes — never commit
+CONCEPTS.md
+CORE_ANSWERS.md
+DEMO_WALKTHROUGH.md
+INTERVIEW_PREP.md
+MY_STORY.md
+THE_STORY.md
+
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.env
+.env.local
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+uploads/
+*.log
